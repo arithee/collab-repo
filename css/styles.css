@@ -84,6 +84,12 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+.menu-item h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
 .about {
     padding: 100px 0;
     text-align: center;
