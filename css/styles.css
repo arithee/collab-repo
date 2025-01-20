@@ -498,10 +498,11 @@ footer {
 
 .team-member img {
     max-width: 150px;
-    height: auto;
+    height: 200px;
     border-radius: 10px;
     display: block;
     margin: 0 auto;
+    object-fit: cover;
 }
 
 .team-member img:hover {
