@@ -356,3 +356,15 @@ footer {
     transform: scale(1.1);
 }
 
+.team-member img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.team-member img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
