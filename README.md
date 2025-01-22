@@ -27,11 +27,11 @@ in this project.</h3>
     <img src="img/Github.png" style="width:50px;">
 </a>
 <img src = "img/" style = "width:150px;border-radius:50px;">
-<strong>Name:</strong>
-<strong>Email:</strong>
-<a href="">
+<strong>Name: John Kristoffer C. Chiong</strong><br>
+<strong>Email: 202280002@psu.palawan.edu.ph</strong><br><br>
+<a href="https://www.facebook.com/johnkristoffer.chiong/">
     <img src="img/Facebook.png">
 </a>
-<a href="">
+<a href="https://github.com/johnchiong">
     <img src="img/Github.png">
 </a>
