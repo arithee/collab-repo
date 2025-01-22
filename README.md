@@ -17,21 +17,21 @@ in this project.</h3>
 <img src = "img/contact.png">
 <p><strong>Contact Page</strong> - contains the contact information of the cafe and a way to send them a message for reviews. Also displays the location of the cafe so users can screenshot it if they plan on visiting.</p>
 <h1>About the Authors</h1>
-<img src = "img/arithee" style = "width:150px;border-radius:50px;">
-<strong>Name:</strong>Derek Trevor N. Atienza
-<strong>Email:</strong>202180173@psu.palawan.edu.ph
+<img src = "img/arithee.png" style = "width:150px;border-radius:50px;">
+<strong>Name:</strong> Derek Trevor N. Atienza <br>
+<strong>Email:</strong> 202180173@psu.palawan.edu.ph <br>
 <a href="https://www.facebook.com/derek.trevoratienza/">
-    <img src="img/Facebook.png">
+    <img src="img/Facebook.png" style="width:50px;">
 </a>
 <a href="https://github.com/arithee">
-    <img src="img/Github.png">
+    <img src="img/Github.png" style="width:50px;">
 </a>
 <img src = "img/" style = "width:150px;border-radius:50px;">
 <strong>Name:</strong>
 <strong>Email:</strong>
-<a href="https://www.instagram.com">
+<a href="">
     <img src="img/Facebook.png">
 </a>
-<a href="https://www.instagram.com">
+<a href="">
     <img src="img/Github.png">
 </a>
